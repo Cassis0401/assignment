@@ -9,5 +9,5 @@ We have shared 3 data sets, MNIST, MNIST-M and Office31.
 
 # The steps
 - Running the create_mnistm.ipynb and creating a mnistm_data.pkl.plk file, I didn't upload the mnistm_data.pkl.plk because the mnistm_data.pkl.plk file is too large to upload. 
-- Running the mnist_snes_test.ipynb, which is used to test the MNIST-M data. This process takes a long time to wait. 
+- Running the mnist_snes.ipynb, which is used to test the MNIST-M data. This process takes a long time to wait. 
 - Running three files. webcom_dslr.ipynb, dslr_webcom.ipynb, amazon_webcom.ipynb.The three files have the same code but use different data. xx-xxx means the former(xx) is the source domain and the latter(xxx) is the target domain.
